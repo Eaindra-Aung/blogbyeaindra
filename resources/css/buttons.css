@@ -1,0 +1,16 @@
+.btn-sm {
+    @apply w-40 py-2 px-4 rounded;
+}
+.btn-yellow {
+    @apply bg-yellow-300 text-black font-bold;
+}
+.btn-yellow:hover {
+    @apply bg-yellow-400;
+}
+
+.btn-blue {
+    @apply bg-blue-400 text-white font-bold;
+}
+.btn-blue:hover {
+    @apply bg-blue-600;
+}

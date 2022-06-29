@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+mainlogo1.png : https://www.wix.com/logo/maker/esh/zoe-editor?industry=%7B%22industry%22%3A%22904e7e089b4bda2f8f8846e6_b0a520919b99728bae200018_blog%22%2C%22isCustom%22%3Afalse%7D&tags=modern%2Cfun%2Ccreative%2Cfresh%2Cdynamic%2Ctechy&selectedWebsiteId=1&logoId=dbede6bc-69f2-4425-b201-3f47ffaea794&referralAdditionalInfo=arenaSplitPage
