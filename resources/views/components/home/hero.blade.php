@@ -13,14 +13,14 @@ pb-[110px] bg-white
                     I am a   <span class="rounded-md text-amber-600">Web Developer</span>
                    </h1>
                 <p class="text-base mb-8 max-w-[520px]">
-                   I am a junior developer. <br />
-                   who is passionate about learning new programming languages.
-                   <a class="text-primary font-bold no-underline hover:underline underline-offset-2
-                   decoration-2 decoration-primary" href="/" target="_blank">youtube</a> <br />
+                    <br />
+                   I am from Myanmar currently living in Yangon and job haunting for web developer position. 
+                   <!-- <a class="text-primary font-bold no-underline hover:underline underline-offset-2
+                   decoration-2 decoration-primary" href="/" target="_blank">youtube</a> <br /> -->
                 </p>
                  <ul class="flex flex-wrap items-center">
                     <li>
-                        <x-button-link href="#porfolio" 
+                        <x-button-link href="https://github.com/Eaindra-Aung" 
                         variant="primary" class="rounded-lg">
                             My Projects
                         </x-button-link>

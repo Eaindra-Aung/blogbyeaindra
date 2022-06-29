@@ -17,26 +17,26 @@ class Portfolio extends Component
     {
         //
         $this->items = [
-            ['category' => ['Laravel', 'Tailwind.css', 'Vue3'],
-            'title'  => 'Full Stack , Tailwaindcss and Vue3',
+            ['category' => ['Laravel', 'Bootstrap', 'Git'],
+            'title'  => 'Full Stack development with Laravel framework',
             'image' => url('/img/survey.jpg'),
-            'github' => 'https://github.com/Eaindra-Aung',
+            'github' => 'https://github.com/Eaindra-Aung/Blog',
         ],
             [
-                'category' => ['Bootstrap', 'Vue3', 'Laravel'],
-                'title'  => 'Bootstrap, Vue3', 'Laravel',
+                'category' => ['Tailwindcss', 'Laravel', 'JavaScript'],
+                'title'  => 'Portfolio Developemnt',
                 'image' => url('/img/survey1.jpg'),
-                'github' => 'https://github.com/Eaindra-Aung',
+                'github' => 'https://github.com/Eaindra-Aung/Blog-01',
             ],
             [
-                'category' => ['Laravel', 'Tailwind.css', 'Vue3'],
-                'title'  => 'Full Stack , Tailwaindcss and Vue3',
+                'category' => ['Tailwind.css', 'Vue3'],
+                'title'  => 'Project development using Vue3',
                 'image' => url('/img/survey2.jpg'),
                 'github' => 'https://github.com/Eaindra-Aung',
             ],
             [
                 'category' => ['Laravel', 'Tailwind.css', 'Vue3'],
-                'title'  => 'Full Stack , Tailwaindcss and Vue3',
+                'title'  => 'My Active Status On Git',
                 'image' => url('/img/survey3.jpg'),
                 'github' => 'https://github.com/Eaindra-Aung',
             ]

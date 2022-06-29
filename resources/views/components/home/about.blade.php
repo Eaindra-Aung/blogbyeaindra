@@ -35,15 +35,20 @@ pb-12 lg:pb-[90px] overflow-hidden">
                    About Me
                  </h2>
                  <p class="text-base dark:text-gray-400 mb-8">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Odit veniam odio iusto, vitae id praesentium minima possimus provident repudiandae. Sapiente in dolore enim dicta, 
-                    numquam magnam? Autem repudiandae nostrum praesentium.
+                 &#8226;Have a very strong fundamental knowledge on PHP. <br>
+                 &#8226;Proficient in MVC framework, HTML5, CSS3, JavaScript,
+                     JQuery and Bootstrap.
                  </p>
                  <p class="text-base dark:text-gray-400 mb-8">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Accusantium laborum <span class="text-amber-500 font-bold">PHP</span>
-                      <span class="text=amber-500 font-bold">JavaScript</span>. <br />
-                      My content is mostly focused on practical examples and projects. <br />
+                 &#8226;Have a knowledge on using MySQL database with 3rd party application and 
+                     currently deep-learning on <span class="text-amber-500 font-bold">Tailwindcss, Laravel 9</span> and
+                      <span class="text-amber-500 font-bold">VueJS</span>. <br />
+                      &#8226;Have experience of working on VueJS project before. <br />
+                 </p>
+                 <p class="text-base dark:text-gray-400 mb-8">
+                 &#8226;Ability to interact with people from various cultural backgrounds.
+                      <br>
+                      &#8226;Ability to work under pressure. <br />
                  </p>
                  <!-- <x-button-link href="linkedin" variant="red" target="_blank">
                     View Channel

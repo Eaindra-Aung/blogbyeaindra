@@ -1,6 +1,6 @@
 <!-- ====== Portfolio Section Start -->
 <section
-  id="portfolio"
+  id="projects"
   x-data="
         {
           selectedTab: 'all',

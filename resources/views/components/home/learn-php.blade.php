@@ -3,11 +3,11 @@
         <h4 class="text-white text-base font-semibold mb-2">
             Check my RoadMap.
         </h4>
-        <h2 class="text-white font-bold text-3xl sm:text-[38px]
+        <h2 class="text-white font-bold text-xl sm:text-[30px]
         leading-tight mb-6 sm:mb-8 lg:mb-0">
-            Start Learning PHP, JavaScript fundamentals <br
-            class="hidden xs:block" />
-            For Free
+        You can check it through the link on the right side.
+      <br
+            class="hidden xs:block" /> Feel Free
         </h2>
         </x-slot>
         <x-button-link href="https://github.com/Eaindra-Aung" 

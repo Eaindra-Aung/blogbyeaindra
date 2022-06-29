@@ -15,7 +15,7 @@
           <!-- <img src="{{url('/img/mainlogo2.png')}}" 
               class="w-[48px] lg:w-[64px] hidden dark:inline-block"
               alt=""> -->
-          <span class="text-xl xl:text-2xl font-bold py-2 w-50 
+          <span class="text-xl xl:text-2xl font-bold py-4 w-50 
                     text-[#0c7187] dark:text-white">Eaindra</span>
         </a>
       </div>

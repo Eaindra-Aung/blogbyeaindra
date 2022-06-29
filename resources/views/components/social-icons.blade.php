@@ -36,7 +36,7 @@
                      </svg>
                   </a>
                   <a
-                     href="aeindreaaung"
+                     href="/"
                      target="_blank"
                      class="
                      w-8
@@ -109,7 +109,7 @@
                      </svg>
                   </a>
                   <a
-                     href="javascript:void(0)"
+                     href="https://www.linkedin.com/in/eaindra-mm-aung-b821961ba/"
                      class="
                      w-8
                      h-8
