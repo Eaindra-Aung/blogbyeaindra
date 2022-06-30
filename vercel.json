@@ -11,7 +11,7 @@
     ],
     "env" : {
         "APP_NAME" : "Eaindra Portfolio",
-        "APP_DEBUG" : true,
+        "APP_DEBUG" : "true",
         "APP_URL" : "https://eaindraaungmyn.com",
         "APP_CONFIG_CACHE" : "/tmp/config.php",
         "APP_EVENT_CACHE" : "/tmp/events.php",
